@@ -18,5 +18,6 @@ public class Main
 		z= Math.sqrt((x*x)+(y*y));
 		
 		System.out.println("Hypotenuse is "+z);
+		scanner.close();
 	}
 }
