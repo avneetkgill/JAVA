@@ -19,5 +19,8 @@ public class Main
 		
 		System.out.println("Hypotenuse is "+z);
 		scanner.close();
+
+
+		//some of the math functions are Math.round for rounding decimal Math.ceil for rounding up and Math.floor for rounding down
 	}
 }
